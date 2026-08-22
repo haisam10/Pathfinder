@@ -7,6 +7,7 @@ Upload any map image (a screenshot, a scanned floor plan, a PDF), sample the col
 https://haisam10.github.io/Pathfinder/
 # colab-for-map-to-link
 https://colab.research.google.com/drive/1XEms8ONOXxQ_P_AWBmaIGTRWyzFxd-o0?usp=sharing
+
 ![Pathfinder demo](https://raw.githubusercontent.com/haisam10/Pathfinder/refs/heads/main/Pathfinder.gif)
 
 ---
