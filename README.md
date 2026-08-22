@@ -3,9 +3,9 @@
 **A\* pathfinding on your own map — upload an image, and watch the shortest route get found in real time.**
 
 Upload any map image (a screenshot, a scanned floor plan, a PDF), sample the color of the roads/paths with a click, and Pathfinder automatically extracts the road network and runs an animated A\* search between any two points you pick.
-# webpage-link
+# webpage link
 https://haisam10.github.io/Pathfinder/
-# colab-for-map-to-link
+# colab for map to image
 https://colab.research.google.com/drive/1XEms8ONOXxQ_P_AWBmaIGTRWyzFxd-o0?usp=sharing
 
 ![Pathfinder demo](https://raw.githubusercontent.com/haisam10/Pathfinder/refs/heads/main/Pathfinder.gif)
